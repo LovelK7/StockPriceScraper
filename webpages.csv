@@ -1,0 +1,11 @@
+webpage_name,url,page_type
+Eurizon Fund Equity World Smart Volatility - R,https://markets.ft.com/data/funds/tearsheet/charts?s=LU0114064917:EUR,ft
+Eurizon Manager Selection Fund MS40 - R,https://markets.ft.com/data/funds/tearsheet/charts?s=LU0256013359:EUR,ft
+Vanguard LifeStrategy 80,https://markets.ft.com/data/etfs/tearsheet/summary?s=V80A:AEX:EUR,ft
+iShares Core S&P 500,https://finance.yahoo.com/quote/SXR8.DE/,yahoo
+Lyxor Core STOXX Europe 600,https://markets.ft.com/data/etfs/tearsheet/summary?s=LYP6:GER:EUR,ft
+Hut 8 Mining Corp.,https://ca.finance.yahoo.com/quote/1YT.F/,yahoo
+LS 1x Tesla Tracker,https://finance.yahoo.com/quote/TSLA.AS?p=TSLA.AS,yahoo
+Alibaba (BABA),https://markets.ft.com/data/equities/tearsheet/summary?s=AHLA:FRA,ft
+Microsoft (MSFT),https://finance.yahoo.com/quote/MSF.DE/,yahoo
+AirBnB (ABNB),https://markets.ft.com/data/equities/tearsheet/summary?s=6Z1:FRA,ft
